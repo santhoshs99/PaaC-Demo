@@ -1,4 +1,4 @@
-node (DockerBuild) {
+node (docker) {
   stage 'SCM Checkout'
   checkout scm
   
